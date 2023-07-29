@@ -6,8 +6,6 @@ internal class Program
     {
         Console.WriteLine(BCommon.Test);
 
-
-
-        Console.WriteLine("MASTER< MASTER!!!!!!!!");
+        Console.WriteLine(BSecondary.Test2);
     }
 }
